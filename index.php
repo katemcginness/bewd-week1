@@ -13,7 +13,7 @@
 // }
 ?>
             <form method="post">
-                <label for='age'>Enter your age to find it's meaning...</label>
+                <label for='age'>Enter your age and you can find it's meaning...</label>
                 <br>
                 <input type='text' id='age' name='age'>
                 <br>
